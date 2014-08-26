@@ -4,6 +4,7 @@
  *  Created on: 23 Aug 2014
  *      Author: sander
  *      class driehoek interface
+ *      Implementatie van class driehoek, Testing Eclipse, Li3nux and git as part of study
  */
 
 class driehoek{
